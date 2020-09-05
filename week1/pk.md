@@ -32,7 +32,6 @@ _You can decide how to allocate your 20 slides to address the following. Please 
   * [Card Sorting](../resources/card_sorting.md)
   * [Project Mind Map](http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811) 
   * [SCAMPER Technique](http://www.mindtools.com/pages/article/newCT_02.htm)
-  * [Storytelling Exercise](../resources/storytelling_exercise.md)
   * [Recommended Resources](../resources/recommendations.md)
 * **RESEARCH DIET**: List or show 3 different books, articles, podcasts, videos \(i.e. [TED](http://www.ted.com)\), or exhibition or event \(that took you out of your home\) that you have read, watched, listened, or experienced that has informed your project ideas. 
   * Also, post your response and the URLs of the items in your research diet on your [process website](website.md). How is it relevant to your project and which ideas would you like to further investigate? Discuss how the all connect or diverge. If you attended an exhibition or event, please post photos if at all possible.
