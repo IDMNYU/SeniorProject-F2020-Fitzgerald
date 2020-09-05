@@ -29,11 +29,11 @@ _You can decide how to allocate your 20 slides to address the following. Please 
 * **THREE ACT STRUCTURE**: What is your project's 3-act structure? Reference the reading from _Do The Work_ by Steven Pressfield. If you have watched the watchmen tv series, it's 3-act structure could be: Who is hiding behind the masks and why?, understanding Angela's and her grandfather's nostalgia/trauma, and transferring Dr. Manhattan's power.
 * **TARGET AUDIENCE**: Who is this project for? Please note that everyone is not a valid answer. Target is the key word here. Who cares? Who _will_ care? Who is your target audience? What do you want your target audience to experience when they interact with your project?
 * **\(OPTIONAL\) BRAINSTORMING DOCUMENTATION**: 
-  * [Card Sorting](../brainstorming/card_sorting.md)
+  * [Card Sorting](../resources/card_sorting.md)
   * [Project Mind Map](http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811) 
   * [SCAMPER Technique](http://www.mindtools.com/pages/article/newCT_02.htm)
-  * [Storytelling Exercise](../brainstorming/storytelling_exercise.md)
-  * [Recommended Resources](../recommended_resources.md)
+  * [Storytelling Exercise](../resources/storytelling_exercise.md)
+  * [Recommended Resources](../resources/recommendations.md)
 * **RESEARCH DIET**: List or show 3 different books, articles, podcasts, videos \(i.e. [TED](http://www.ted.com)\), or exhibition or event \(that took you out of your home\) that you have read, watched, listened, or experienced that has informed your project ideas. 
   * Also, post your response and the URLs of the items in your research diet on your [process website](website.md). How is it relevant to your project and which ideas would you like to further investigate? Discuss how the all connect or diverge. If you attended an exhibition or event, please post photos if at all possible.
 * **PROJECT IDEAS**: 3 different slides should illustrate 3 different possible ideas for your senior project, based on your focus topic, theme, or issue. Also, address What form \(medium\) it _might_ take, how this form might specifically address your topic, theme, or issue, and what the form might communicate. Your idea must be related to your theme focus and your previous work. Remember, you only have 20 seconds to talk about each idea so your slide will need to be concise for each idea.
