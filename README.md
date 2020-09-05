@@ -97,7 +97,7 @@ Critiques \(AKA crits\) are the best way to articulate your ideas to others and 
 * What additional references, resources, projects, and/or links that would be useful for the project?
 
 ### Documentation Website
-Please add your name and the URL of your process website to this [shared google doc]().
+Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1mKKHRFi-W3GdVgWUSxoPL---7qcGSEt6qx7Z2y-83T4/edit?usp=sharing).
 
 You should have a **dedicated**, senior project website to document your **daily** and/or **weekly** process and progress of your senior project. Students are expected to share their process and progress with others using their "process" website.
 
@@ -105,7 +105,7 @@ You should have a **dedicated**, senior project website to document your **daily
   * I recommend [WordPress](https://wordpress.com/), [Dreamhost](http://dreamhost.com) or [Siteground](http://siteground.com) for purchasing a domain and web hosting.
 * Second best is hosting on [http://wp.nyu.edu](http://wp.nyu.edu)
 
-#### What your senior project process website should contain?
+#### What your senior project documentation website should contain?
 
 * Daily/Weekly senior project process & progress \(AKA what have you done today or this week?\) 
 * at least, 1 post per week DUE by or before noon on Mondays. If it is not posted by noon, you will not receive credit for this week.
