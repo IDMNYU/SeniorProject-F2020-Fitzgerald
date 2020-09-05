@@ -32,5 +32,5 @@ Once you come up with a project idea, try to deconstruct it and organize differe
 
 **Step 5: IDEA LIST**
 
-Figure out which of these ideas speak most strongly to you. Make a ranked list of the idea cards. Ask yourself why you choose those cards, and why the idea is interesting to you. Take photos and notes and post to your [process website](../pre-work/website.md).
+Figure out which of these ideas speak most strongly to you. Make a ranked list of the idea cards. Ask yourself why you choose those cards, and why the idea is interesting to you. Take photos and notes.
 
