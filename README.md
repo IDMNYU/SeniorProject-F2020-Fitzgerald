@@ -25,6 +25,7 @@ _NB : This syllabus is subject to change_
 
 ### Communication
 * [Class Slack](http://idmspsp20.slack.com) - I will be inviting you to join. Check this daily.
+* Email is great, but maybe best for longer conversations. If it's a quick answer, Slack would be better. 
 
 ### Course Description
 Senior Project in Digital Media is the capstone course for the Integrated Digital Media \(IDM\) program. This course mirrors the creative process that professional artists, designers, creative technologists, and entrepreneurs must practice throughout their entire careers. In order to succeed, this course requires you to devote a lot of time and effort outside of class, throughout the entire semester.
