@@ -15,66 +15,74 @@
 * Pecha kucha presentation revisions \(if applicable\) 
 * **Assignments**
   * Document your process and project [on your website](website.md).
+  * Pick an [accountability partner](accountability_partner.md) and let me know who you are working with.
 
 #### Tue Sept 15 - Last day of Drop/Add
 
 #### [Week 3, Mon Sept 21](/week3/index.md) 
-* Research and design 
+* Research and design
 * **Assignments**
   * Document your process and project [on your website](website.md).
+  * Check in with your [accountability partner](accountability_partner.md)
 
 #### [Week 4, Mon Sept 28](/week4/index.md) 
 * Research and design 
+* one on one meetings
 * **Assignments**
   * Document your process and project [on your website](website.md).
-
+  
 #### [Week 5, Mon Oct 5](/week5/index.md) 
-* Resources and milestones / research and design
+* How to give and receive critique
 * **Assignments**
   * Document your process and project [on your website](website.md).
-
+  * Check in with your [accountability partner](accountability_partner.md)
+  
 #### [Week 6, Mon Oct 12](/week6/index.md) 
-* Project plan presentation 
+* Project plan presentation
 * **Assignments**
   * Document your process and project [on your website](website.md).
-
+  
 #### [Week 7, Mon Oct 19](/week7/index.md) 
 * Midterm Demo and Critique
 * **Assignments**
   * Document your process and project [on your website](website.md).
-
+  * Check in with your [accountability partner](accountability_partner.md)
+  
 #### [Week 8, Mon Oct 26](/week8/index.md) 
-* Midterm Demo and Critique continued 
+* One on one meetings
 * **Assignments**
   * Document your process and project [on your website](website.md).
-
+  
 #### [Week 9, Mon Nov 2](#) 
-* Pro practices materials
+* One on one meetings cont'd
 * **Assignments**
   * Document your process and project [on your website](website.md).
-
+  * Check in with your [accountability partner](accountability_partner.md)
+  
 #### Tuesday November 3 - Last day to Withdraw
 
 #### [Week 10, Mon Nov 9](#) 
-* Pro practices materials \(if applicable\) 
+* Pro practices materials
 * **Assignments**
   * Document your process and project [on your website](website.md).
-
+  
 #### [Week 11, Mon Nov 16](#) 
-* Project Demo of Gold Version \(if applicable\)
+* One on one meetings
 * **Assignments**
   * Document your process and project [on your website](website.md).
-
+  * Check in with your [accountability partner](accountability_partner.md)
+  
 #### [Week 12, Mon Nov 23](#) 
-* Project Demo of Gold Version Revision \(if applicable\) 
+* Project Demo
 * **Assignments**
   * Document your process and project [on your website](website.md).
-
+  
 #### [Week 13, Mon Nov 30](#) 
-* Project Demo of Gold Version Revision \(if applicable\)
+* One on one meetings
 * **Assignments**
   * Document your process and project [on your website](website.md).
-
+  * Check in with your [accountability partner](accountability_partner.md)
+  
 #### [Week 14, Mon Dec 7](#)
 * LAST Class Fall 2020
 * **Assignments**
