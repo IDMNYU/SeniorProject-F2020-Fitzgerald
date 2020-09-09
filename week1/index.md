@@ -12,5 +12,5 @@
   * Discuss calendar and specifically: All dates and assignments are subject to change at the discretion of the professor.
   * Reading the weekly schedule.
   * NOTE: Due on date listed.
-* [Pecha kucha](../pre-work/pecha_kucha.md) presentations
+* [Pecha kucha](pk.md) presentations
 
