@@ -5,8 +5,10 @@
 
 #### [Week 1, Wed Sept 9](/week1/index.md)
 * Syllabus / Pecha kucha presentations 
-* ONLINE COURSE MEETING 
-
+* ONLINE COURSE MEETING
+* **Assignments**
+  * Create a [documentation website](website.md) and send me the link.
+  * Document your process and project [on your website](website.md).
 
 #### [Week 2, Mon Sept 14](/week2/index.md)
 * Pecha kucha presentation revisions \(if applicable\) 
