@@ -8,7 +8,6 @@
 * ONLINE COURSE MEETING
 * **Assignments** Due by Monday September 14
   * Create a [documentation website](website.md) and add the link to [this shared doc](https://docs.google.com/document/d/1mKKHRFi-W3GdVgWUSxoPL---7qcGSEt6qx7Z2y-83T4/edit?usp=sharing).
-  * Document your process and project [on your website](website.html)
   * Research exercise: Find at least three items relevant for your project research and post them to your process site channel. These might be an essay or long form news article from a reputable outlet (NYTimes, Guardian, The Atlantic, New Yorker, Propublica), Ted talk, Eyeo talk, exhibition, product, art or design project that is relevant. Detail how are these relevant to your project and which would you like to further investigate? What questions are posed for you? Put a link in the class slack to your post.
 
 #### [Week 2, Mon Sept 14](/week2/index.md)
