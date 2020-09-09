@@ -9,7 +9,6 @@ Please remember that you and a classmate can work as a team. Only one presentati
 * Please note that any significant changes to your project will require the submission of a revised project plan.
 
 <table>
-  <thead>
     <tr>
       <th style="text-align:left"><b>Cover</b>
       </th>
@@ -23,8 +22,6 @@ Please remember that you and a classmate can work as a team. Only one presentati
         </ul>
       </th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td style="text-align:left"><b>Index or Table of Contents</b>
       </td>
@@ -226,7 +223,6 @@ Please remember that you and a classmate can work as a team. Only one presentati
         </ul>
       </td>
     </tr>
-  </tbody>
 </table>
 
 ### Versions of Plan
