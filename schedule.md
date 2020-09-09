@@ -8,8 +8,8 @@
 * ONLINE COURSE MEETING
 * **Assignments** Due by Monday September 14
   * Create a [documentation website](website.md) and add the link to [this shared doc](https://docs.google.com/document/d/1mKKHRFi-W3GdVgWUSxoPL---7qcGSEt6qx7Z2y-83T4/edit?usp=sharing).
-  * Document your process and project [on your website](website.md)
-  * Start your [project plan](plan.md) as a google doc and add the link to [the shared doc](https://docs.google.com/document/d/1mKKHRFi-W3GdVgWUSxoPL---7qcGSEt6qx7Z2y-83T4/edit?usp=sharing). This document is going to be changing and growing over the course of the semester, you will not be able to finish this now, but it is good to start to map the contours of what you'll be doing and identify what is and is not achievable before mid-December.
+  * Document your process and project [on your website](website.html)
+  * Start your [project plan](plan.html) as a google doc and add the link to [the shared doc](https://docs.google.com/document/d/1mKKHRFi-W3GdVgWUSxoPL---7qcGSEt6qx7Z2y-83T4/edit?usp=sharing). This document is going to be changing and growing over the course of the semester, you will not be able to finish this now, but it is good to start to map the contours of what you'll be doing and identify what is and is not achievable before mid-December.
 
 #### [Week 2, Mon Sept 14](/week2/index.md)
 * Pecha kucha presentation revisions \(if applicable\) 
