@@ -80,22 +80,7 @@ This class will consist of :
 Individual meetings are not optional. They are important and useful. Sometimes they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please swap times with a classmate.
 
 * **Group and class critiques**
-Critiques \(AKA crits\) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your [accountability partner](assignments/accountability_partner.md) or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
-
-**Rules of the critique:**
-
-* Be present and engaged.
-* Give feedback to your classmates. 
-* Do not make assumptions. Ask questions.
-* Do your best.
-* Do NOT take feedback personally.
-
-**Guidelines for the critique:**
-
-* What is working about the project?
-* What is confusing or needs more clarification about the project?
-* What are ways that the project can be improved?
-* What additional references, resources, projects, and/or links that would be useful for the project?
+Critiques \(AKA crits\) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your [accountability partner](accountability_partner.md) or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
 
 ### Documentation Website
 Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1mKKHRFi-W3GdVgWUSxoPL---7qcGSEt6qx7Z2y-83T4/edit?usp=sharing).
