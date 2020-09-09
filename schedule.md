@@ -8,33 +8,33 @@
 * ONLINE COURSE MEETING 
 
 
-#### [Week 2, Mon Sept 14](#)
+#### [Week 2, Mon Sept 14](/week2/index.md)
 * Pecha kucha presentation revisions \(if applicable\) 
 
 #### Tue Sept 15 - Last day of Drop/Add
 
-#### [Week 3, Mon Sept 21](#) 
+#### [Week 3, Mon Sept 21](/week3/index.md) 
 * Research and design 
 
-#### [Week 4, Mon Sept 28](#) 
+#### [Week 4, Mon Sept 28](/week4/index.md) 
 * Research and design 
 
-#### [Week 5, Mon Oct 5](#) 
+#### [Week 5, Mon Oct 5](/week5/index.md) 
 * Resources and milestones / research and design
 
-#### [Week 6, Mon Oct 12](#) 
+#### [Week 6, Mon Oct 12](/week6/index.md) 
 * Project plan presentation 
 
-#### [Week 7, Mon Oct 19](#) 
+#### [Week 7, Mon Oct 19](/week7/index.md) 
 * Midterm Demo and Critique
 
-#### [Week 8, Mon Oct 26](#) 
+#### [Week 8, Mon Oct 26](/week8/index.md) 
 * Midterm Demo and Critique continued 
-
-#### Tuesday November 3 - Last day to Withdraw
 
 #### [Week 9, Mon Nov 2](#) 
 * Pro practices materials
+
+#### Tuesday November 3 - Last day to Withdraw
 
 #### [Week 10, Mon Nov 9](#) 
 * Pro practices materials \(if applicable\) 
