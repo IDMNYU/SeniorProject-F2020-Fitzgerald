@@ -1,6 +1,6 @@
 # Project Plan
 
-The project plan will consist of a presentation and a written proposal.
+The project plan will consist of a written proposal.
 
 This project plan will be constantly iterated over the course of the semester. It may grow and/or shrink over the course of the semester. Don't worry about "getting it right." The creative process is messy.
 
