@@ -15,7 +15,6 @@
 * Challenges the semster presents to us
   * Practical
   * Emotional
-  
 * Assignments
-  * start your [Project Plan](../proj_plan.md)
-  * pick an [Accountability Partner](../accountability_partner.md) and let me knwo who it is
+  * start your [Project Document]
+  * pick an [Accountability Partner](../accountability_partner.md). Identify them on [the shared document](https://docs.google.com/document/d/1mKKHRFi-W3GdVgWUSxoPL---7qcGSEt6qx7Z2y-83T4/edit?usp=sharing)
