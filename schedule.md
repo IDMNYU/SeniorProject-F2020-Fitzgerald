@@ -12,10 +12,10 @@
 
 #### [Week 2, Mon Sept 14](/week2/index.md)
 * Pecha kucha presentation revisions \(if applicable\) 
-* **Assignments**
-  * Start your [project plan](plan.html) as a google doc and add the link to [the shared doc](https://docs.google.com/document/d/1mKKHRFi-W3GdVgWUSxoPL---7qcGSEt6qx7Z2y-83T4/edit?usp=sharing). This document is going to be changing and growing over the course of the semester, you will not be able to finish this now, but it is good to start to map the contours of what you'll be doing and identify what is and is not achievable before mid-December.
-  * Document your process and project [on your website](website.md).
-  * Pick an [accountability partner](accountability_partner.md) and let me know who you are working with.
+* **Assignments** Due by Monday Sept 21
+  * start your [Project Plan](../plan.md) and link to it [in the shared doc](https://docs.google.com/document/d/1mKKHRFi-W3GdVgWUSxoPL---7qcGSEt6qx7Z2y-83T4/edit?usp=sharing)
+  * pick an [Accountability Partner](../accountability_partner.md). Identify them on [the shared document](https://docs.google.com/document/d/1mKKHRFi-W3GdVgWUSxoPL---7qcGSEt6qx7Z2y-83T4/edit?usp=sharing)
+  * Read [Jenny Odell's article How to Grow an Idea](https://thecreativeindependent.com/people/jenny-odell-how-to-grow-an-idea/), then explore the [links she has on her related are.na channel](https://www.are.na/the-creative-independent-1522276020/how-to-grow-an-idea). Write a brief reflrection on your documentation site. Do these ideas resonate with you? Why opr why not. Pick 2 blocks from Odell's Are.na channel and discuss them. The entire entry should be between 200-300 words.
 
 #### Tue Sept 15 - Last day of Drop/Add
 
