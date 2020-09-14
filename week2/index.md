@@ -17,5 +17,5 @@
   * Emotional
   
 * Assignments
-  * start your [Project Document]
+  * start your [Project Plan](../proj_plan.md)
   * pick an [Accountability Partner](../accountability_partner.md) and let me knwo who it is
