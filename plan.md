@@ -4,7 +4,7 @@ The project plan will consist of a written proposal.
 
 This project plan will be constantly iterated over the course of the semester. It may grow and/or shrink over the course of the semester. Don't worry about "getting it right." The creative process is messy.
 
-Please remember that you and a classmate can work as a team. Only one presentation and proposal is to be submitted per team.
+[Joel Urena's Project Plan from Spring 2020](https://drive.google.com/file/d/1JM_dJhOMxHKp424qnjwtBTw8zEB4O9R4/view?usp=sharing) is an excellent reference. You should make yours as individual as your project.
 
 * Please note that any significant changes to your project will require the submission of a revised project plan.
 
