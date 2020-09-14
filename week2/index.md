@@ -18,4 +18,4 @@
   
 * Assignments
   * start your [Project Document]
-  * pick an [Accountability Partner](../accountability_partner.html) and let me knwo who it is
+  * pick an [Accountability Partner](../accountability_partner.md) and let me knwo who it is
