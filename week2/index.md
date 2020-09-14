@@ -16,5 +16,5 @@
   * Practical
   * Emotional
 * Assignments
-  * start your [Project Document]
+  * start your [Project Plan](../plan.md)
   * pick an [Accountability Partner](../accountability_partner.md). Identify them on [the shared document](https://docs.google.com/document/d/1mKKHRFi-W3GdVgWUSxoPL---7qcGSEt6qx7Z2y-83T4/edit?usp=sharing)
