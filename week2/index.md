@@ -11,9 +11,11 @@
   * Equipment checkout
     * [insurance information](https://github.com/IDMNYU/ER_Insurance)
 * Discussion the Pecha Kucha experience
+* What are your largest needs for the semester?
 * Challenges the semster presents to us
   * Practical
   * Emotional
-* Whatare your largest needs 
-* Project Document
-* accountability buddy
+  
+* Assignments
+  * start your [Project Document]
+  * pick an [Accountability Partner](../accountability_partner.html) and let me knwo who it is
