@@ -11,7 +11,8 @@
   * Research exercise: Find at least three items relevant for your project research and post them to your process site channel. These might be an essay or long form news article from a reputable outlet (NYTimes, Guardian, The Atlantic, New Yorker, Propublica), Ted talk, Eyeo talk, exhibition, product, art or design project that is relevant. Detail how are these relevant to your project and which would you like to further investigate? What questions are posed for you? Put a link in the class slack to your post.
 
 #### [Week 2, Mon Sept 14](/week2/index.md)
-* Pecha kucha presentation revisions \(if applicable\) 
+* Pecha kucha presentation discussions
+* Thinking ahead
 * **Assignments** Due by Monday Sept 21
   * start your [Project Plan](../plan.md) and link to it [in the shared doc](https://docs.google.com/document/d/1mKKHRFi-W3GdVgWUSxoPL---7qcGSEt6qx7Z2y-83T4/edit?usp=sharing)
   * pick an [Accountability Partner](../accountability_partner.md). Identify them on [the shared document](https://docs.google.com/document/d/1mKKHRFi-W3GdVgWUSxoPL---7qcGSEt6qx7Z2y-83T4/edit?usp=sharing)
