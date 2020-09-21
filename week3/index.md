@@ -1,4 +1,6 @@
-Week 3 - Research
+# Week 3 September 21
+
+## Research and idea generation
 
 "Research is a practice, writing is practice, doing science is practice, doing design is practice, making art is a practice." 
 Frayling, C. (1993). Research in art and design, Royal College of Art Research Papers series vol. 1 no. 1. London: Royal College of Art. p.4
