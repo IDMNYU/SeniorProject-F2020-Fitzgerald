@@ -1,3 +1,5 @@
+# Free Writing, Word Lists & Mind Maps
+
 * *Freewriting* is similar to journal writing but it focuses on a specific idea or question instead of writing about general thoughts and feelings.
 For more info, read: [https://writingprocess.mit.edu/process/step-1-generate-ideas/instructions/freewriting](https://writingprocess.mit.edu/process/step-1-generate-ideas/instructions/freewriting)
 * *Word Lists* are a great way to rapidly go through any words that come to mind when you're brainstorming a particular idea. There are many wordlist generators online.
