@@ -7,7 +7,7 @@ Frayling, C. (1993). Research in art and design, Royal College of Art Research P
 
 * Presentation from Lindsay Anderberg from Dibner Library.
 * Research
-  * Libraries (obvioiusly)
+  * Libraries & articles
   * Where else do you take inspiration from?
 * Idea generation
   * [Freewriting, Word Lists, and MindMaps](../exercises.md) 
