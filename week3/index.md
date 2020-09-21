@@ -15,9 +15,9 @@ Frayling, C. (1993). Research in art and design, Royal College of Art Research P
   
 * Assignments
   * Update your process website with the work you have done this week.
-  * check in with your accountabilyt partners.
+  * check in with your accountability partners.
+  * go through one or more of the brainstorming techniques outlined above. Post this to your documentation site.
   * [schedule a 30 minute one-on-one meeting with me the week of September 28 during a "Senior Project appointment" time.](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU5jZVJkYmh0Sk4yfGRlZmF1bHR8YThjZDQ3NjAxYjJlMDNhMWZiNTQ5OWJiYjRjMDMxYTQ&pli=1) If you're not available at any of these times, let me know and we can try and find an alternate arrangement.
-  * Read [this interview with author Cory Doctorow on finding an audience and iterating on ideas](https://thecreativeindependent.com/people/writer-cory-doctorow-on-living-in-the-future-while-trying-to-create-a-better-one/)
   * pick an [article from this list on anxiety and creativity](https://thecreativeindependent.com/themes/#creative-anxiety). Read it and write a response about how it does or does not reflect your own concerns with your project or practice. 
+  * Read [this interview with author Cory Doctorow on finding an audience and iterating on ideas](https://thecreativeindependent.com/people/writer-cory-doctorow-on-living-in-the-future-while-trying-to-create-a-better-one/)
   * Optional (but highly encouraged) article thinking about design research and outcomes [The 'Science' of Good Design: A Dangerous Idea](https://www.theatlantic.com/business/archive/2011/05/the-science-of-good-design-a-dangerous-idea/238750/)
-  
