@@ -1,4 +1,7 @@
 Week 3 - Research
 
-Study Guides
-https://guides.nyu.edu/?b=s
+* Presentation from Lindsay Anderberg from Dibner Library.
+* Research tools
+  * 
+  * 
+  
