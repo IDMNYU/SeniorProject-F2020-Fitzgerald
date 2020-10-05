@@ -33,7 +33,6 @@
 
 
 #### [Week 4, Mon Sept 28]() - No class meeting on Monday. One-on-ones instead
-* Research and design 
 * one on one meetings
 * **Assignments**
   * Document your process and project [on your website](website.md).
@@ -43,31 +42,35 @@
 * **Assignments**
   * Document your process and project [on your website](website.md).
   * Check in with your [accountability partner](accountability_partner.md)
+  * Draft a list of [resources and milestones](../project_plan.md) for your project.
+  * Iterate [research and design](../project_plan.md) of your project.
   
 #### [Week 6, Mon Oct 12](/week6/index.md) 
-* Project plan presentation
+* One on one meetings
+* Be prepared to discuss your deliverables
 * **Assignments**
   * Document your process and project [on your website](website.md).
-  
-#### [Week 7, Mon Oct 19](/week7/index.md) 
-* Midterm Demo and Critique
+  * Check in with your [accountability partner](accountability_partner.md)
+ 
+#### [Week 7, Mon Oct 19](#) 
+* One on one meetings
+* Perpare a demo/rough sketch/prototype to show the following week
 * **Assignments**
   * Document your process and project [on your website](website.md).
   * Check in with your [accountability partner](accountability_partner.md)
   
-#### [Week 8, Mon Oct 26](/week8/index.md) 
-* One on one meetings
+#### [Week 8, Mon Oct 26](#) 
+* Midterm Demo and Critique
+* Project plan due
 * **Assignments**
   * Document your process and project [on your website](website.md).
   
 #### [Week 9, Mon Nov 2](#) 
-* One on one meetings cont'd
+* One on one meetings
 * **Assignments**
   * Document your process and project [on your website](website.md).
   * Check in with your [accountability partner](accountability_partner.md)
   
-#### Tuesday November 3 - Last day to Withdraw
-
 #### [Week 10, Mon Nov 9](#) 
 * Pro practices materials
 * **Assignments**
@@ -84,6 +87,8 @@
 * **Assignments**
   * Document your process and project [on your website](website.md).
   
+#### Monday November 30 - Last day to Withdraw
+
 #### [Week 13, Mon Nov 30](#) 
 * One on one meetings
 * **Assignments**
