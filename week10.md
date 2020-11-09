@@ -11,6 +11,8 @@
 * [AIGA Professional Resources](https://www.aiga.org/resources)
 * [Get A Design Job!](https://www.aiga.org/get-a-design-job) by RitaSue Siegel
 * [How to Be a Graphic Designer without Losing Your Soul](https://www.amazon.com/Graphic-Designer-without-Losing-Expanded/dp/1568989830/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1516586778&sr=1-1-spell) by Adrian Shaughnessy 
+* [How to survie as an artist on the internet](https://docs.google.com/document/d/1aB4gpjPYdu-Czjz4zqsTHu4nnWYQID09MunhF6i6YOc/edit)
+* [The Creative Independent](https://thecreativeindependent.com/)
 
 ## Job Boards
 * [IDM LinkedIn group](https://www.linkedin.com/groups/8684560/)
@@ -29,3 +31,7 @@
 * [Indiegogo](https://www.indiegogo.com)
 * [ArtistShare](http://www.artistshare.com)
 * [GoFundMe](https://www.gofundme.com)
+
+## Artist Opportunities
+* [Everest Pipkin's Artist Opportunities List](https://docs.google.com/spreadsheets/d/1KWIzznlFNs_rQCEzW5ub6ehwaLcwR80xbuOokXwRa_Y/edit#gid=0)
+* [Everest Pipkin's Public Art Opportunities List](https://docs.google.com/spreadsheets/u/1/d/1PpgYI8MfjZuIFv4Z1SESgVFAIY3l1-ZrqTYtFppLOnE/edit#gid=0)
