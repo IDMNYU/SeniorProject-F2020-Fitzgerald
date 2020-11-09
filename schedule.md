@@ -72,7 +72,7 @@
   * Check in with your [accountability partner](accountability_partner.md)
   
 #### [Week 10, Mon Nov 9](#) 
-* Pro practices materials
+* [Pro practices materials](week10.md)
 * **Assignments**
   * Document your process and project [on your website](website.md).
   
