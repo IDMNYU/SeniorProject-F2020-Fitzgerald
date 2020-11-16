@@ -101,4 +101,4 @@
   * Document your process and project [on your website](website.md).
 
 #### [Week 15, Mon Dec 14](#)
-* Final One On One Review
+* End of semster show
