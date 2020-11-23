@@ -83,7 +83,7 @@
   * Check in with your [accountability partner](accountability_partner.md)
   
 #### [Week 12, Mon Nov 23](#) 
-* Project Demo
+* Project Demo in small groups
 * **Assignments**
   * Document your process and project [on your website](website.md).
   
@@ -97,8 +97,11 @@
   
 #### [Week 14, Mon Dec 7](#)
 * LAST Class Fall 2020
+* students will have 5 min to show their work and offer future perspectives on what they have achieved. 
 * **Assignments**
   * Document your process and project [on your website](website.md).
 
 #### [Week 15, Mon Dec 14](#)
 * End of semster show
+* Each student will be responsible for a 1m30sec-2min long video explaining their work. This is due December 13 by noon with a link to their final work. 
+* Final project are fully due by noon on December 14
